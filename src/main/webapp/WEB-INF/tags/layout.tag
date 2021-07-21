@@ -5,7 +5,7 @@
 
     <t:head />
 
-    <body class="orange lighten-4">
+    <body class="orange lighten-2">
 
         <t:navbar />
 
